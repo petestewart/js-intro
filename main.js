@@ -1,1 +1,1 @@
-console.log('javascrip intro');
+console.log('javascript intro');
